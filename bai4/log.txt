@@ -1,0 +1,3 @@
+0 32800 heks.txt
+1 56963 xe_dap.txt
+2 41042 nmelbtym.txt
